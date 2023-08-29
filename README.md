@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Johannah from Banga, Aklan<br><br>- 🔭 I’m currently studying Bachelor of Science in Computer Science in NVC <br>- 📚 I want to learn PHP, HTML<br></p>
 
 ###
 
